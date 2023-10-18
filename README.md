@@ -1,4 +1,4 @@
-<div align="center">Hi 👋 , I'm Raj Mayur </div>
+<h1 align="center" text-decoration="none" >Hi 👋 , I'm Raj Mayur </h1>
 
  <div><strong> A passionate developer and lifelong learner. 🚀 I'm on a coding journey to explore new horizons, solve challenges, and create exciting projects. Follow along to discover my coding adventures, insights, and contributions to the open-source world! 💻🌟 </strong></div>
 
