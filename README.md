@@ -1,7 +1,6 @@
-<h1 align="center" text-decoration="none" >Hi 👋 , I'm Raj Mayur </h1>
+<h1 align="center" text-decoration="none" >Hi 👋 , I'm Mayur </h1>
 
 <strong> A passionate developer and lifelong learner. 🚀 I'm on a coding journey to explore new horizons, solve challenges, and create exciting projects. Follow along to discover my coding adventures, insights, and contributions to the open-source world! 💻🌟 </strong>
-
 <!--
 **Raj-400BC/Raj-400BC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
