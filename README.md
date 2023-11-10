@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Raj Mayur!
 
-Passionate Full Stack Developer 🚀, proficient in frontend technologies, including Tailwind CSS, and navigating the intricacies of web development. Well-versed in crafting seamless user interfaces and architecting robust server-side applications, my coding journey is a continuous exploration.
+Passionate Full Stack Developer 🚀, proficient in frontend technologies and navigating the intricacies of web development. Well-versed in crafting seamless user interfaces and architecting robust server-side applications, my coding journey is a continuous exploration.
 
 ## 🔧 Technologies & Tools
 - Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS
