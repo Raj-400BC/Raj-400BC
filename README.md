@@ -1,17 +1,26 @@
-<h1 align="center" text-decoration="none" >Hi 👋 , I'm Mayur </h1>
+# 👋 Hi there, I'm Raj Mayur!
 
-<strong> A passionate developer and lifelong learner. 🚀 I'm on a coding journey to explore new horizons, solve challenges, and create exciting projects. Follow along to discover my coding adventures, insights, and contributions to the open-source world! 💻🌟 </strong>
-<!--
-**Raj-400BC/Raj-400BC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Full Stack Developer 🚀, proficient in frontend technologies, including Tailwind CSS, and navigating the intricacies of web development. Well-versed in crafting seamless user interfaces and architecting robust server-side applications, my coding journey is a continuous exploration.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: PostgreSQL
+- Proficient in GitHub workflows 🌐
+- Also diving into the world of Java, exploring DSA, and honing problem-solving skills 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm Currently...
+- Learning open-source contribution strategies and excited about making impactful contributions in the near future 💻✨
+
+## 🌐 API & Networking
+- Knowledgeable in designing and consuming RESTful APIs 🚀
+
+## ⚡ Fun Fact
+- 🚀 I have an insatiable passion for learning new technologies and equally enjoy sharing my knowledge with others. Beyond the screen, you'll find me embracing the thrill of skating, scoring goals on the football field, and engaging in intense table tennis matches. Life is all about the perfect balance of code and play! ⚽🏓
+
+## 💬 Let's Connect
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mayuryaduvanshi-fullstackdeveloper/)
+- 💻 Explore my projects on [GitHub](https://github.com/Raj-400BC)
+- 😄 Pronouns: He/Him
+
+Ask me anything or explore more about my coding journey! 🚀
