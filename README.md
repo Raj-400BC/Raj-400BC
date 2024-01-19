@@ -20,7 +20,6 @@ Passionate Full Stack Developer 🚀, proficient in frontend technologies and na
 
 ## 💬 Let's Connect
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mayuryaduvanshi-fullstackdeveloper/)
-- 💻 Explore my projects on [GitHub](https://github.com/Raj-400BC)
 - 😄 Pronouns: He/Him
 
 Ask me anything or explore more about my coding journey! 🚀
