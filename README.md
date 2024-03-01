@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Raj Mayur!
 
-Passionate Full Stack Developer 🚀, proficient in frontend technologies and navigating the intricacies of web development. My coding journey is a continuous exploration.
+Cybersecurity enthusiast skilled in MERN stack development. Currently diving into cybersecurity and digital forensics, combining a passion for securing the digital landscape with expertise in crafting innovative web solutions. Eager to contribute to dynamic teams. 
+Let's connect!
 
 ## 💬 Let's Connect
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mayuryaduvanshi-fullstackdeveloper/)
