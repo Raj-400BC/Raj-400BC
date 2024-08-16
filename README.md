@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Raj Mayur!
 
-Cybersecurity enthusiast skilled in MERN stack development. Currently diving into cybersecurity and digital forensics, combining a passion for securing the digital landscape with expertise in crafting innovative web solutions. Eager to contribute to dynamic teams. 
-Let's connect!
+Pursuing a Bachelor's degree in Computer Science with a specialization in cybersecurity. Passionate about cybersecurity with hands-on experience as a Security Operations Engineer at SafeAeon. Skilled in analyzing security incidents, utilizing EDR, SIEM, and XDR tools, and managing cloud email security solutions.
+
 
 ## 💬 Let's Connect
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mayuryaduvanshi-fullstackdeveloper/)
